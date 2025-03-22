@@ -1,0 +1,51 @@
+employee_id,current_position,years_in_position,skills,performance_score,interests,education_level
+EMP001,Développeur Junior,6,Communication;Finance;Python;Digital Marketing,4.4,UI/UX Design;International;HR,Bac+3
+EMP002,Développeur Senior,2,Finance;Communication;Public Speaking;Leadership;HR Management;JavaScript,4.8,International;Communication,MBA
+EMP003,Analyste Financier,8,Marketing;Data Analysis;Communication;Finance;Project Management;SQL,4.3,International;Technology,Bac+5
+EMP004,Développeur Senior,2,Accounting;Public Speaking;Data Analysis,4.1,UI/UX Design;International;Business Development;Technology,Bac+5
+EMP005,Développeur Junior,4,SQL;HR Management;Finance,3.7,Finance;Data Science,Bac+3
+EMP006,Chargé de Recrutement,1,Data Analysis;Communication;Finance,3.0,Data Science;Business Development,Doctorat
+EMP007,Développeur Senior,7,Marketing;SQL;Project Management;Finance;Python;Digital Marketing,4.8,HR;Communication;Marketing;UI/UX Design,Bac+3
+EMP008,Tech Lead,3,HR Management;Marketing;Accounting;Recruitment,4.1,Business Development;Finance;Marketing,MBA
+EMP009,Responsable RH,3,Java;JavaScript;HR Management;Communication,2.8,Data Science;Business Development;HR;Communication,Bac+5
+EMP010,Chef de Projet,7,JavaScript;Java;Leadership,4.3,Business Development;Data Science;International;Communication,Doctorat
+EMP011,Responsable RH,1,SQL;Finance;Python,4.4,Technology;Management;Finance,MBA
+EMP012,Chargé de Communication,1,SQL;Digital Marketing;Finance;Java;Accounting,3.1,HR;Management,Bac+2
+EMP013,Responsable Marketing,6,Java;JavaScript;Data Analysis;Recruitment;Communication;SQL,2.9,Management;Communication;Business Development,Bac+2
+EMP014,Comptable,10,Marketing;Finance;Data Analysis;Accounting,4.9,HR;Data Science;UI/UX Design,Bac+5
+EMP015,Chargé de Communication,1,Accounting;Public Speaking;Project Management,4.9,Technology;Finance;Business Development;Management,Doctorat
+EMP016,Développeur Senior,2,Recruitment;Communication;Project Management;Python;Accounting;Digital Marketing,3.7,International;Communication;UI/UX Design;Technology,MBA
+EMP017,Comptable,7,Finance;Leadership;Digital Marketing;HR Management;Communication;Public Speaking,3.3,HR;Technology;Finance,Bac+3
+EMP018,Responsable Marketing,10,HR Management;Marketing;SQL;Recruitment;Accounting;Digital Marketing,3.7,Technology;International;Marketing,Doctorat
+EMP019,Comptable,3,Finance;Marketing;Python;Communication;Recruitment;Java,4.5,Communication;Technology;Marketing,Bac+3
+EMP020,Responsable RH,6,SQL;Marketing;Java;Recruitment,4.8,Business Development;Communication;Data Science,Bac+5
+EMP021,Responsable Marketing,2,Leadership;Data Analysis;Communication;Digital Marketing,4.3,International;Technology;UI/UX Design,MBA
+EMP022,Responsable Marketing,10,Leadership;Finance;HR Management;Digital Marketing;Marketing,2.6,Marketing;Management;Data Science,MBA
+EMP023,Comptable,10,Digital Marketing;SQL;JavaScript,3.1,Technology;International,Bac+5
+EMP024,Responsable RH,4,Finance;Java;Recruitment;Leadership,3.8,UI/UX Design;Data Science;International,Bac+2
+EMP025,Chargé de Recrutement,3,Communication;Finance;HR Management,3.0,Communication;Business Development;International;UI/UX Design,Bac+2
+EMP026,Tech Lead,8,Digital Marketing;Java;Accounting;Marketing;HR Management;JavaScript,4.1,Technology;HR,Doctorat
+EMP027,Analyste Financier,2,SQL;Recruitment;Marketing,4.6,Business Development;Finance,Bac+2
+EMP028,Chargé de Recrutement,7,Python;JavaScript;Project Management,4.6,Management;Data Science;UI/UX Design;International,Bac+5
+EMP029,Chargé de Communication,2,Data Analysis;Java;Python;SQL,3.0,Data Science;Business Development;Communication,Doctorat
+EMP030,Tech Lead,7,Recruitment;JavaScript;Marketing;Java;Data Analysis;Communication,3.6,Finance;UI/UX Design;Management,Doctorat
+EMP031,Chef de Projet,4,Finance;Java;Python;Communication,4.5,Marketing;International,Bac+3
+EMP032,Développeur Senior,3,SQL;Data Analysis;Recruitment;Public Speaking,3.2,HR;International;Management;Data Science,Doctorat
+EMP033,Responsable Marketing,2,SQL;Finance;Python;Marketing;Accounting,4.1,Marketing;Business Development,Bac+2
+EMP034,Chargé de Communication,6,Python;HR Management;Recruitment;Digital Marketing;SQL;Public Speaking,4.4,Business Development;International;Management,Bac+2
+EMP035,Responsable Marketing,8,Accounting;Leadership;Finance,3.3,Communication;Management;Finance,Bac+5
+EMP036,Analyste Financier,7,Recruitment;Public Speaking;Accounting;Python;Project Management,4.2,Marketing;Data Science;Finance,Doctorat
+EMP037,Responsable Marketing,3,Recruitment;SQL;HR Management;Leadership;Public Speaking,3.4,Management;Data Science;HR;Marketing,Bac+3
+EMP038,Chef de Projet,8,JavaScript;Python;Recruitment;SQL;Marketing;HR Management,2.8,International;Business Development,Bac+3
+EMP039,Analyste Financier,6,Recruitment;Leadership;Communication;SQL,3.3,Finance;International,Bac+5
+EMP040,Comptable,9,Public Speaking;Finance;Leadership;Digital Marketing;Marketing;SQL,2.5,Finance;Data Science,Bac+5
+EMP041,Développeur Junior,6,SQL;Digital Marketing;Project Management;Data Analysis;Java,4.1,Data Science;Marketing;Business Development;Management,Bac+2
+EMP042,Chef de Projet,4,Finance;SQL;Python;HR Management,3.6,Management;Technology;International;Communication,Doctorat
+EMP043,Analyste Financier,6,JavaScript;Data Analysis;Leadership,3.8,International;Management;Data Science;Marketing,Bac+3
+EMP044,Responsable Marketing,8,Data Analysis;Marketing;SQL;Digital Marketing;Communication,2.6,HR;Communication;International;Data Science,Bac+2
+EMP045,Tech Lead,10,Python;SQL;Finance;Marketing,3.5,Management;Communication,MBA
+EMP046,Analyste Financier,6,SQL;Finance;Marketing,4.5,Data Science;Finance;Technology,MBA
+EMP047,Développeur Senior,2,Digital Marketing;Accounting;Marketing,3.6,Communication;Business Development;UI/UX Design;Management,MBA
+EMP048,Responsable RH,10,Digital Marketing;Project Management;SQL;Accounting;Recruitment;Communication,4.9,Communication;Finance;HR,Bac+3
+EMP049,Développeur Senior,2,Leadership;Public Speaking;HR Management,4.5,HR;Technology;Management;Business Development,Bac+3
+EMP050,Chargé de Communication,7,HR Management;Project Management;Java;Accounting,3.6,Marketing;Management,Bac+2

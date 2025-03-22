@@ -1,0 +1,11 @@
+training_id,training_name,skills_provided,duration_days,level
+T001,Leadership Avancé,Leadership;Communication,3,Avancé
+T002,Fondamentaux du Python,Python,5,Débutant
+T003,JavaScript pour développeurs,JavaScript,4,Intermédiaire
+T004,Gestion de projet agile,Project Management;Leadership,3,Intermédiaire
+T005,SQL Avancé,SQL;Data Analysis,2,Avancé
+T006,Fondamentaux du marketing digital,Digital Marketing;Marketing,4,Débutant
+T007,Analyse financière pour non-financiers,Finance;Accounting,3,Débutant
+T008,Techniques avancées de recrutement,Recruitment;HR Management,2,Intermédiaire
+T009,Art oratoire et prise de parole,Public Speaking;Communication,2,Tous niveaux
+T010,Data Science avec Python,Python;Data Analysis,5,Avancé

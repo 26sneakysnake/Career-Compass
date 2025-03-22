@@ -1,0 +1,9 @@
+from_position,to_position,required_skills,min_years_experience,min_performance
+Développeur Junior,Développeur Senior,Python;JavaScript;SQL,2,3.5
+Développeur Senior,Tech Lead,Python;JavaScript;Leadership,3,4.0
+Développeur Senior,Chef de Projet,Project Management;Communication;Leadership,3,4.0
+Tech Lead,CTO,Leadership;Communication;Project Management,4,4.2
+Chargé de Recrutement,Responsable RH,HR Management;Communication;Leadership,3,3.8
+Analyste Financier,Directeur Financier,Finance;Accounting;Leadership,5,4.0
+Chargé de Communication,Responsable Marketing,Marketing;Communication;Digital Marketing,3,3.7
+Comptable,Analyste Financier,Accounting;Finance;Data Analysis,3,3.5
