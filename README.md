@@ -25,3 +25,16 @@ CareerCompass is an advanced AI-driven solution designed to transform internal t
 
 1. Clone this repository
 2. Install the required dependencies:
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+streamlit==1.22.0
+networkx==3.1
+3. streamlit run app.py
+   
+
+### Members in the project
+
+1. Seifeddine BEN RHOUMA DIA
+2. Rubesh PRABAKARAN DIA
